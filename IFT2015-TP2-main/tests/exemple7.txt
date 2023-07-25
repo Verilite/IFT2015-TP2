@@ -1,0 +1,248 @@
+DATE 2009-03-04 ;
+PRESCRIPTION :
+Medicament5	17	3
+Medicament48	23	9
+Medicament38	16	12
+;
+PRESCRIPTION :
+Medicament10	17	2
+;
+PRESCRIPTION :
+Medicament25	26	4
+Medicament4	29	8
+Medicament47	11	5
+;
+PRESCRIPTION :
+Medicament27	20	9
+Medicament48	9	10
+;
+PRESCRIPTION :
+Medicament9	12	12
+Medicament37	13	12
+;
+PRESCRIPTION :
+Medicament16	26	9
+Medicament45	30	1
+Medicament48	3	7
+;
+APPROV :
+Medicament27	54	2014-09-01
+Medicament30	78	2012-11-01
+Medicament28	72	2014-03-01
+Medicament9	38	2012-11-01
+Medicament8	120	2018-01-01
+Medicament3	79	2011-08-01
+Medicament12	117	2010-06-01
+Medicament32	100	2017-02-01
+Medicament1	33	2011-09-01
+Medicament17	54	2016-10-01
+Medicament47	42	2013-11-01
+Medicament49	94	2010-05-01
+Medicament41	20	2015-10-01
+Medicament22	70	2009-03-07
+Medicament26	88	2014-04-01
+Medicament14	110	2018-03-01
+Medicament4	103	2011-05-01
+Medicament18	75	2015-04-01
+;
+STOCK ;
+PRESCRIPTION :
+Medicament25	12	12
+;
+PRESCRIPTION :
+Medicament20	26	7
+Medicament26	5	8
+Medicament17	23	9
+Medicament4	13	3
+Medicament34	3	6
+;
+PRESCRIPTION :
+Medicament14	13	9
+;
+PRESCRIPTION :
+Medicament35	13	12
+Medicament16	15	2
+;
+PRESCRIPTION :
+Medicament7	24	1
+Medicament2	21	9
+Medicament27	1	5
+Medicament12	21	4
+;
+PRESCRIPTION :
+Medicament43	13	1
+Medicament49	17	9
+;
+PRESCRIPTION :
+Medicament22	5	6
+Medicament16	25	9
+Medicament44	10	2
+Medicament47	24	7
+Medicament9	21	4
+;
+PRESCRIPTION :
+Medicament49	23	9
+Medicament21	30	9
+Medicament47	11	11
+;
+PRESCRIPTION :
+Medicament38	16	11
+Medicament10	9	1
+Medicament27	19	5
+;
+PRESCRIPTION :
+Medicament43	21	10
+Medicament4	12	12
+;
+PRESCRIPTION :
+Medicament18	3	5
+Medicament12	2	3
+Medicament43	15	12
+Medicament24	14	8
+Medicament44	16	5
+;
+PRESCRIPTION :
+Medicament6	19	8
+Medicament19	8	1
+;
+APPROV :
+Medicament33	56	2019-08-01
+Medicament31	16	2016-08-01
+Medicament27	98	2016-09-01
+Medicament2	35	2014-03-01
+Medicament18	106	2010-04-01
+Medicament35	116	2014-02-01
+Medicament30	118	2013-04-01
+Medicament46	49	2009-07-01
+Medicament49	13	2015-09-01
+Medicament20	69	2019-10-01
+Medicament22	59	2012-04-01
+Medicament11	95	2012-04-01
+Medicament41	67	2009-08-01
+Medicament19	75	2011-09-01
+Medicament39	42	2014-06-01
+Medicament42	47	2017-01-01
+Medicament15	57	2010-06-01
+Medicament26	112	2012-02-01
+Medicament45	77	2011-03-01
+;
+STOCK ;
+APPROV :
+Medicament42	12	2014-01-01
+Medicament29	62	2013-02-01
+Medicament21	88	2018-03-01
+Medicament6	65	2015-04-01
+Medicament25	51	2019-11-01
+Medicament24	122	2014-03-01
+Medicament4	5	2012-08-01
+Medicament9	32	2017-07-01
+Medicament8	112	2010-07-01
+Medicament26	15	2018-08-01
+Medicament46	91	2018-03-01
+Medicament39	41	2018-03-01
+Medicament34	100	2014-04-01
+Medicament28	21	2014-04-01
+Medicament22	94	2019-07-01
+Medicament7	120	2016-10-01
+Medicament27	106	2019-05-01
+;
+STOCK ;
+DATE 2000-05-17 ;
+STOCK ;
+PRESCRIPTION :
+Medicament36	11	6
+Medicament42	19	9
+Medicament32	3	9
+Medicament9	13	10
+Medicament23	14	1
+;
+PRESCRIPTION :
+Medicament44	23	9
+Medicament46	9	12
+Medicament31	13	2
+;
+APPROV :
+Medicament1	90	2009-09-01
+Medicament44	85	2016-06-01
+;
+APPROV :
+Medicament22	102	2001-08-01
+Medicament29	98	2016-02-01
+Medicament6	48	2016-03-01
+Medicament41	74	2001-06-01
+Medicament38	102	2003-06-01
+Medicament12	52	2010-02-01
+Medicament30	47	2019-05-01
+Medicament1	35	2019-02-01
+Medicament2	100	2014-07-01
+Medicament17	37	2012-01-01
+Medicament40	42	2006-01-01
+;
+APPROV :
+Medicament47	11	2015-05-01
+Medicament36	110	2004-02-01
+Medicament28	91	2019-06-01
+Medicament44	88	2000-08-01
+Medicament3	101	2015-01-01
+Medicament33	89	2018-11-01
+Medicament2	109	2001-02-01
+Medicament1	114	2016-05-01
+;
+PRESCRIPTION :
+Medicament11	17	7
+Medicament36	30	9
+;
+PRESCRIPTION :
+Medicament38	25	7
+Medicament8	9	2
+Medicament13	3	5
+Medicament25	24	3
+Medicament3	24	1
+;
+PRESCRIPTION :
+Medicament24	5	12
+Medicament42	25	12
+Medicament41	4	11
+;
+PRESCRIPTION :
+Medicament24	29	2
+Medicament25	12	5
+Medicament35	12	4
+Medicament33	11	7
+Medicament49	2	3
+;
+PRESCRIPTION :
+Medicament38	3	7
+Medicament33	4	5
+;
+PRESCRIPTION :
+Medicament42	23	3
+;
+PRESCRIPTION :
+Medicament22	7	1
+;
+PRESCRIPTION :
+Medicament2	28	3
+Medicament22	22	8
+Medicament41	23	8
+Medicament4	8	12
+;
+PRESCRIPTION :
+Medicament19	11	3
+Medicament6	22	9
+Medicament44	12	2
+Medicament20	1	8
+Medicament38	16	8
+;
+PRESCRIPTION :
+Medicament23	19	5
+Medicament49	10	6
+Medicament46	21	10
+;
+PRESCRIPTION :
+Medicament48	16	12
+Medicament31	5	1
+Medicament12	25	10
+;
+DATE 2016-12-26 ;
+STOCK ;

@@ -1,0 +1,69 @@
+DATE 2013-08-27 
+;
+APPROV :
+Medicament38	21	2015-05-15
+Medicament11	17	2018-07-25
+Medicament10	66	2017-03-23
+Medicament49	88	2013-09-01
+Medicament48	16	2014-06-03
+Medicament19	99	2019-03-31
+Medicament15	119	2014-02-26
+Medicament9	59	2018-08-07
+Medicament34	111	2017-09-04
+Medicament12	50	2015-09-09
+Medicament20	48	2016-11-17 
+;
+STOCK 
+;
+PRESCRIPTION  :
+Medicament10    5       6 
+Medicament9    10      1 
+Medicament49    5       1 
+;
+PRESCRIPTION :
+Medicament10    14       2
+Medicament9     4       1
+Medicament12    4       1
+;
+PRESCRIPTION :
+Medicament34    30       2
+;
+PRESCRIPTION :
+Medicament48    4       1
+Medicament10    4       1
+Medicament12    3       12
+;
+STOCK ;
+APPROV :
+Medicament9	56	2013-11-17
+Medicament15	57	2014-03-01
+Medicament14	53	2014-01-01
+Medicament11	109	2019-09-01
+Medicament5	9	2013-11-16
+Medicament44	19	2015-07-01
+;
+STOCK 
+;
+APPROV :
+Medicament4 8 2017-10-30
+;
+STOCK 
+;
+DATE 2018-01-01
+;
+PRESCRIPTION :
+Medicament23	6	10
+Medicament9		30	1
+;
+PRESCRIPTION :
+Medicament11	10	6
+Medicament9	11	5
+Medicament20	8	1
+Medicament44	10	1
+;
+STOCK
+;
+DATE 2018-01-01
+;
+STOCK
+;

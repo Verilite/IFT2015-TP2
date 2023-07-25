@@ -1,0 +1,46 @@
+DATE 2005-04-27 ;
+APPROV :
+Medicament17	43	2005-07-01
+Medicament44	39	2005-07-01
+Medicament49	84	2005-08-01
+Medicament18	93	2005-08-01
+Medicament37	85	2005-07-17
+Medicament12	40	2005-07-08
+Medicament28	12	2005-06-30
+Medicament9	121	2005-05-01
+Medicament6	115	2005-08-01
+Medicament1	82	2005-06-01
+Medicament11	86	2005-04-27
+Medicament40	30	2005-09-12
+Medicament36	49	2006-04-01
+Medicament31	15	2006-05-01
+Medicament33	82	2009-09-01
+Medicament39	83	2007-09-01
+Medicament16	4	2006-11-01
+Medicament19	40	2009-04-01
+Medicament23	33	2005-05-27
+Medicament5	67	2008-05-01
+;
+APPROV :
+Medicament33	96	2010-04-01
+;
+STOCK ;
+PRESCRIPTION :
+Medicament46	22	5
+Medicament19	9	10
+;
+PRESCRIPTION :
+Medicament17	4	7
+Medicament46	6	2
+;
+PRESCRIPTION :
+Medicament8	26	9
+;
+PRESCRIPTION :
+Medicament24	29	12
+Medicament34	8	10
+Medicament28	1	2
+Medicament14	25	6
+;
+DATE 2015-05-18 ;
+STOCK ;

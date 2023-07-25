@@ -1,0 +1,121 @@
+DATE 2016-04-03 ;
+APPROV :
+Medicament32	94	2019-10-12
+Medicament48	120	2017-02-28
+Medicament2	79	2016-10-03
+Medicament9	76	2019-09-23
+Medicament28	44	2017-05-31
+Medicament49	95	2017-04-12
+Medicament25	4	2017-05-26
+Medicament10	23	2019-10-07
+Medicament40	48	2017-09-09
+Medicament24	117	2016-07-11
+Medicament41	53	2018-05-21
+Medicament36	96	2019-06-30
+Medicament29	121	2016-05-15
+Medicament7	42	2018-07-17
+Medicament31	75	2019-08-05
+;
+APPROV :
+Medicament35	81	2017-01-01
+Medicament13	38	2019-11-14
+Medicament37	36	2019-08-01
+;
+PRESCRIPTION :
+Medicament40	16	3
+Medicament25	21	4
+;
+PRESCRIPTION :
+Medicament7	26	1
+Medicament6	22	3
+;
+PRESCRIPTION :
+Medicament13	2	10
+Medicament33	16	11
+;
+APPROV :
+Medicament6	110	2019-03-21
+;
+PRESCRIPTION :
+Medicament15	6	5
+;
+PRESCRIPTION :
+Medicament2	19	2
+Medicament46	1	9
+Medicament30	8	7
+Medicament33	18	10
+;
+PRESCRIPTION :
+Medicament23	1	2
+Medicament34	9	7
+Medicament10	6	8
+;
+PRESCRIPTION :
+Medicament21	17	3
+;
+PRESCRIPTION :
+Medicament36	8	2
+Medicament29	5	1
+Medicament32	3	3
+Medicament41	13	12
+;
+PRESCRIPTION :
+Medicament27	11	9
+;
+PRESCRIPTION :
+Medicament24	29	10
+Medicament15	28	7
+Medicament31	29	8
+Medicament18	1	9
+Medicament10	20	11
+;
+PRESCRIPTION :
+Medicament39	10	4
+;
+PRESCRIPTION :
+Medicament32	10	11
+Medicament42	24	4
+Medicament3	4	10
+;
+PRESCRIPTION :
+Medicament37	24	12
+Medicament7	14	4
+Medicament33	17	7
+;
+PRESCRIPTION :
+Medicament46	19	1
+;
+PRESCRIPTION :
+Medicament30	17	4
+;
+STOCK ;
+PRESCRIPTION :
+Medicament17	28	6
+;
+PRESCRIPTION :
+Medicament41	29	4
+Medicament8	23	11
+Medicament29	26	4
+;
+PRESCRIPTION :
+Medicament10	2	9
+Medicament47	30	12
+Medicament25	30	4
+;
+PRESCRIPTION :
+Medicament11	23	2
+;
+APPROV :
+Medicament28	47	2018-04-01
+Medicament11	91	2019-07-01
+Medicament21	53	2017-07-01
+Medicament24	57	2019-01-01
+Medicament2	4	2018-05-01
+Medicament18	98	2017-10-01
+Medicament20	99	2019-02-01
+Medicament22	57	2016-07-01
+Medicament39	95	2018-09-01
+;
+STOCK ;
+DATE 2015-04-21 ;
+STOCK ;

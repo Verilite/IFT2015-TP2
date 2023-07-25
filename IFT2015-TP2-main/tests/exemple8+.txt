@@ -1,0 +1,53 @@
+2005-04-27 OK
+
+APPROV OK
+APPROV OK
+STOCK 2005-04-27
+Medicament1 82 2005-06-01
+Medicament12 40 2005-07-08
+Medicament16 4 2006-11-01
+Medicament17 43 2005-07-01
+Medicament18 93 2005-08-01
+Medicament19 40 2009-04-01
+Medicament23 33 2005-05-27
+Medicament28 12 2005-06-30
+Medicament31 15 2006-05-01
+Medicament33 82 2009-09-01
+Medicament33 96 2010-04-01
+Medicament36 49 2006-04-01
+Medicament37 85 2005-07-17
+Medicament39 83 2007-09-01
+Medicament40 30 2005-09-12
+Medicament44 39 2005-07-01
+Medicament49 84 2005-08-01
+Medicament5 67 2008-05-01
+Medicament6 115 2005-08-01
+Medicament9 121 2005-05-01
+
+PRESCRIPTION 1
+Medicament46 22 5  COMMANDE
+Medicament19 9 10  COMMANDE
+
+PRESCRIPTION 2
+Medicament17 4 7  OK
+Medicament46 6 2  COMMANDE
+
+PRESCRIPTION 3
+Medicament8 26 9  COMMANDE
+
+PRESCRIPTION 4
+Medicament24 29 12  COMMANDE
+Medicament34 8 10  COMMANDE
+Medicament28 1 2  OK
+Medicament14 25 6  COMMANDE
+
+2015-05-18 COMMANDES :
+Medicament14 150
+Medicament19 90
+Medicament24 348
+Medicament34 80
+Medicament46 122
+Medicament8 234
+
+STOCK 2015-05-18
+
