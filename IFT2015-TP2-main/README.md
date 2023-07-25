@@ -12,5 +12,3 @@ javac Tp2.java
 ```shell
 java Tp2 inputFile.txt outputFile.txt
 ```
-
-3.
